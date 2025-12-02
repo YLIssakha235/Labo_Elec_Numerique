@@ -58,6 +58,7 @@ int main(void)
     //INTERRUPT_PeripheralInterruptDisable(); 
     
     // code d'initialisation à mettre ici 
+    // afin que le code fonctionne on est obligé de passer par là
     
 
 
